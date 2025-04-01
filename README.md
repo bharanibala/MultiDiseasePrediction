@@ -1,1 +1,1 @@
-# noise-detection
+# Multiple Disease Prediction
